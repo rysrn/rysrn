@@ -4,8 +4,6 @@
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me via email: imwende608@gmail.com or rynrysmwikali@gmail.com.
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: My favourite books are The Brothers Karamazov by Fyodor Dostoevsky and Last Words from Montmartre
-Book by Qiu Miaojin.
 
 <!---
 rysrn/rysrn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
